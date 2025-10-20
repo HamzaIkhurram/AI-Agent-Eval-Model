@@ -33,10 +33,10 @@ npm install
 
 ### 3. Environment Variables
 
-The `.env` file is already configured with your Gemini API key:
+Create a `.env` file in the project root with your Gemini API key:
 
 ```
-GEMINI_API_KEY=AIzaSyBeX5dENpwMKhsE3VAtN5VOXm2GWYVp0J8
+GEMINI_API_KEY=your_api_key_here
 ```
 
 ### 4. Start the Backend Server
